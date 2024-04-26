@@ -1,0 +1,4 @@
+C:\Users\Public\Новая папка\Лабораторная 2\obj\Debug\Лабораторная 2.csproj.AssemblyReference.cache
+C:\Users\Public\Новая папка\Лабораторная 2\obj\Debug\Лабораторная 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Новая папка\Лабораторная 2\obj\Debug\App.g.cs
+C:\Users\Public\Новая папка\Лабораторная 2\obj\Debug\Лабораторная 2_MarkupCompile.cache
